@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GroceryApps</string>
+    <string name="total">Total:</string>
+    <string name="my_grocery_list">My Grocery List</string>
+    <string name="enter_grocery">Enter Grocery</string>
+    <string name="enter_price">Enter price</string>
+    <string name="add_prices">Add Prices</string>
+</resources>
