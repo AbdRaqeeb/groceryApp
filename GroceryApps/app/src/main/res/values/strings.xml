@@ -5,4 +5,6 @@
     <string name="enter_grocery">Enter Grocery</string>
     <string name="enter_price">Enter price</string>
     <string name="add_prices">Add Prices</string>
+    <string name="hi_my_name_is_ajao_abdur_raqeeb_i_m_22_years_old_i_live_in_abuja_i_an_intern_at_startng_2020_internship_below_is_contained_my_grocery_list_with_the_totalprice">Hi, my name is Ajao Abdur-Raqeeb. I\'m 22 years old. I live in Abuja. I an intern at StartNG 2020 internship. Below is contained my grocery list with the totalprice.</string>
+    <string name="share">SHARE</string>
 </resources>
